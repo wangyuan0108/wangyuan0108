@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyuan0108)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
-
 <!--
 **wangyuan0108/wangyuan0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ⚡ 神族九帝，永不言弃 ⚡
+
+![](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?hide=php&username=wangyuan0108&layout=compact)
+
+## Follow Me
+
+![访问个人主页数量](https://komarev.com/ghpvc/?username=wangyuan0108&color=green)
+[![Github](https://img.shields.io/github/stars/wangyuan0108?style=social)](https://github.com/wangyuan0108)
+[![Gmail Badge](https://img.shields.io/badge/gmail-870147852@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:870147852@qq.com)](mailto:870147852@qq.com)
