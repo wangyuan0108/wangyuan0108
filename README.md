@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?hide=php&username=wangyuan0108&layout=compact)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=auto_deploy)](https://github.com/wangyuan0108/auto_deploy)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=auto_deploy)](https://github.com/wangyuan0108/auto_deploy) -->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=fe-qa)](https://github.com/wangyuan0108/fe-qa)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=fe-qa)](https://github.com/wangyuan0108/fe-qa) -->
 
 
+<a href="https://github.com/wangyuan0108/auto_deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=auto_deploy" />
+</a>
+<a href="https://github.com/wangyuan0108/fe-qa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangyuan0108&repo=fe-qa" />
+</a>
 
 
 ## Follow Me
