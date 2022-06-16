@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ 努力不一定成功，但是不努力一定不会成功！ ⚡
+# ⚡ 再见少年拉满弓，不惧岁月不惧风 ⚡
 
 ![](https://github-readme-stats.vercel.app/api?username=wangyuan0108&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 
